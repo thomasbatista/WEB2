@@ -4,7 +4,7 @@ import lista_exercicios.exercicio02.domain.Data;
 
 import javax.swing.JOptionPane;
 
-public class Main {
+public class DataTest {
     static void main() {
         Data data = new Data(15, 6, 2003);
         System.out.println("Data inicial: " + data.formatar());

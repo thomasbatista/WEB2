@@ -2,7 +2,7 @@ package lista_exercicios.exercicio01.test;
 
 import lista_exercicios.exercicio01.domain.Produto;
 
-public class ProdutoTest01 {
+public class ProdutoTest {
     static void main() {
         Produto produto = new Produto(123, "Teclado");
 
