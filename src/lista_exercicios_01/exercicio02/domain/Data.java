@@ -1,4 +1,4 @@
-package lista_exercicios.exercicio02.domain;
+package lista_exercicios_01.exercicio02.domain;
 
 public class Data {
     private int dia;

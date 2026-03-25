@@ -1,6 +1,6 @@
-package lista_exercicios.exercicio01.test;
+package lista_exercicios_01.exercicio01.test;
 
-import lista_exercicios.exercicio01.domain.Produto;
+import lista_exercicios_01.exercicio01.domain.Produto;
 
 public class ProdutoTest {
     static void main() {

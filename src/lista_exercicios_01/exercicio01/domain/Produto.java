@@ -1,4 +1,4 @@
-package lista_exercicios.exercicio01.domain;
+package lista_exercicios_01.exercicio01.domain;
 
 public class Produto {
     private int codigo;

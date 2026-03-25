@@ -1,6 +1,6 @@
-package lista_exercicios.exercicio03.test;
+package lista_exercicios_01.exercicio03.test;
 
-import lista_exercicios.exercicio03.domain.Tarefa;
+import lista_exercicios_01.exercicio03.domain.Tarefa;
 import java.util.ArrayList;
 import java.util.Scanner;
 

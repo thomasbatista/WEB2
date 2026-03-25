@@ -1,6 +1,6 @@
-package lista_exercicios.exercicio02.test;
+package lista_exercicios_01.exercicio02.test;
 
-import lista_exercicios.exercicio02.domain.Data;
+import lista_exercicios_01.exercicio02.domain.Data;
 
 import javax.swing.JOptionPane;
 
